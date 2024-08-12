@@ -49,3 +49,4 @@ galaxy_info:
 
 dependencies:
 - UniInc.fn-Reboot
+- UniInc.GCC
